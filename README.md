@@ -1,4 +1,4 @@
-# print('Hellow World !')
+# print('Hello World !')
 
 ## I'm a chemist who does Data Science.
 #
