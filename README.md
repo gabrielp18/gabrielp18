@@ -1,8 +1,15 @@
-# print('Hello World !')
+# print('Hellow World !')
 
 ## I'm a chemist who does Data Science.
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielp18&show_icons=true&theme=dracula)
+#
+# Projects
+<a href="https://github.com/gabrielp18/HouseSales">1. An in-depth analysis of price behavior and prediction.
+
+<a href="https://www.linkedin.com/in/gabrielpires1995/"> 2. Finding out why employees leave your company.
+
+
 #
 ## Contato
 <a href="https://www.linkedin.com/in/gabrielpires1995/">
