@@ -7,7 +7,9 @@
 # Projects
 <a href="https://github.com/gabrielp18/HouseSales">1. An in-depth analysis of price behavior and prediction.
 
-<a href="https://github.com/gabrielp18/HRAnalysis/"> 2. Finding out why employees leave your company.
+<a href="https://github.com/gabrielp18/HRProject"> 2. Finding out why employees leave your company.
+
+<a href="https://github.com/gabrielp18/PowerBICase"> 3. Data Analytics visualization using Power BI.
 
 
 #
@@ -25,13 +27,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" align="center" heigth="50" width="60">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" align="center" heigth="50" width="60">
