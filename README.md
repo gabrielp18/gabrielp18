@@ -1,37 +1,21 @@
-# print('Hellow World !')
-
-## I'm a chemist who does Data Science.
-#
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielp18&show_icons=true&theme=dracula)
-#
-# Projects
-<a href="https://github.com/gabrielp18/HouseSales">1. An in-depth analysis of price behavior and prediction.
-
-<a href="https://github.com/gabrielp18/HRProject"> 2. Finding out why employees leave your company.
-
-<a href="https://github.com/gabrielp18/PowerBICase"> 3. Data Analytics visualization using Power BI.
-
-
-#
-## Contato
-<a href="https://www.linkedin.com/in/gabrielpires1995/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60">
-</a>
-
-#
-
-## Linguagens
-
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" align="center" heigth="50" width="60">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" heigth="50" width="60">
-
+<div id="header" align="center">
+  <img src="fig/1704197800715.jpg" width="200"/>
+    <div id="badges">
+      <a href="[your-linkedin-URL](https://www.linkedin.com/in/gabrielpires1995/)">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.instagram.com/eusouquant/">
+        <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+      </a>
+    </div>
+<img src="https://komarev.com/ghpvc/?username=gabrielp18&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1 align='center'> Wassup! :wave:</h1>
+<p align='center'>
+I'm Gabriel.
+</p>
+<p align='center'>Creating and teaching solutions for financial market!</p>
+<p align='center'><img src="fig/e25f7dc63a9bf9389f194ae4d2fcb02b.gif" width="400"/></p>
+
+<h1 align='center'><i>Stay hungry!</i></h1>
