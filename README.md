@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="fig/1704197800715.jpg" width="200"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/gabrielpires1995/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
