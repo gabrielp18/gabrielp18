@@ -12,9 +12,7 @@
 
 <h1 align='center'> Wassup! :wave:</h1>
 <p align='center'>
-I'm Gabriel.
+Check it out my cool projects!
 </p>
 <p align='center'>Creating and teaching solutions for financial market!</p>
-<p align='center'><img src="fig/e25f7dc63a9bf9389f194ae4d2fcb02b.gif" width="400"/></p>
-
-<h1 align='center'><i>Stay hungry!</i></h1>
+<p align='center'><img src="fig/tenos.gif" width="400"/></p>
