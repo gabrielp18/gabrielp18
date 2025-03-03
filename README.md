@@ -15,4 +15,4 @@
 Check it out my cool projects!
 </p>
 <p align='center'>Creating and teaching solutions for financial market!</p>
-<p align='center'><img src="fig/tenos.gif" width="400"/></p>
+<p align='center'><img src="fig/tenor.gif" width="400"/></p>
